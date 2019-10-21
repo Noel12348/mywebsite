@@ -1,0 +1,10 @@
+body{
+    background-color: honeydew;
+    background-image: linear-gradient(honeydew,orange);
+}
+
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
