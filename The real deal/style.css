@@ -8,3 +8,12 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: azure;
 }
+
+.header{
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+    border-style: solid;
+    border-color: honeydew;
+    border-width: 5px;
+}
