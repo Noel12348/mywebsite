@@ -1,6 +1,5 @@
 body{
-    background-color: honeydew;
-    background-image: linear-gradient(honeydew,orange);
+    background-color: azure;
 }
 
 h1{
@@ -9,20 +8,20 @@ h1{
     color: azure;
 }
 
-.header{
-    background-color: black;
+#header{
+    background-color: #1D2228;
     text-align: center;
     padding: 40px;
     border-style: solid;
-    border-color: honeydew;
+    border-color: azure;
     border-width: 5px;
 }
 
 div.navbar{
     overflow: hidden;
-    background-color: black;
+    background-color: #1D2228;
     border-style: solid;
-    border-color: honeydew;
+    border-color: azure;
     border-bottom-width: 10px;
     border-top-width: 5px;
 }
@@ -35,5 +34,12 @@ a{
 
 a:hover{
     background-color: azure;
-    color: black;
+    color: #1D2228;
 }
+
+#orange{
+    background-color: #FB8122;
+    width: 1340px;
+    height: 15px;
+}
+
