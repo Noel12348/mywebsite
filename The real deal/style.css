@@ -10,7 +10,7 @@ h1{
 
 #header{
     background-color: #1D2228;
-    text-align: center;
+    text-align: left;
     padding: 40px;
     border-style: solid;
     border-color: azure;
@@ -43,3 +43,21 @@ a:hover{
     height: 15px;
 }
 
+th.titles{
+    font-size: 40px;
+}
+
+#conference{
+    width: 100%;
+}
+#conference,td,th{
+    font-size: 20px;
+    border: solid 2px;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+p.writing{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
