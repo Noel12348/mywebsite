@@ -1,5 +1,5 @@
 body{
-    background-color: azure;
+    background-color: white;
 }
 
 h1{
@@ -13,7 +13,7 @@ h1{
     text-align: left;
     padding: 40px;
     border-style: solid;
-    border-color: azure;
+    border-color: white;
     border-width: 5px;
 }
 
@@ -21,7 +21,7 @@ div.navbar{
     overflow: hidden;
     background-color: #1D2228;
     border-style: solid;
-    border-color: azure;
+    border-color: white;
     border-bottom-width: 10px;
     border-top-width: 5px;
 }
@@ -33,7 +33,7 @@ a{
 }
 
 a:hover{
-    background-color: azure;
+    background-color: white;
     color: #1D2228;
 }
 
@@ -89,4 +89,10 @@ p.writing{
     position: absolute;
     top: 30px;
     left: 100px;
+}
+
+div.footer{
+    padding: 10px;
+    text-align: center;
+    
 }
