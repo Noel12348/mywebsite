@@ -43,12 +43,12 @@ a:hover{
     background-color: #FB8122;
     width: 100%;
     height: 15px;
-
 }
 
 th.titles{
     font-size: 40px;
 }
+
 
 #conference,td,th{
     font-size: 20px;
@@ -103,5 +103,15 @@ div.footer{
     padding: 10px;
     text-align: center;
 
-    
+}
+
+#players{
+    border-collapse: collapse;
+    width: 100%;
+    background-color:#1D2228;
+    color: white;
+}
+
+highlights{
+    font-size: 40px;
 }
