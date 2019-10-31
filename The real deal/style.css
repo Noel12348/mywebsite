@@ -74,7 +74,6 @@ p.writing{
     color: azure;
     font-size: 50px;
     width: 100%;
-
 }
 
 #top-left{
@@ -110,3 +109,11 @@ highlights{
 color: white;
 background-color: gray;
 }
+
+#teams{
+    width: 100%;
+    border-collapse: collapse;
+    border-style: hidden;
+    color: white;
+}
+
