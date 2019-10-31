@@ -115,3 +115,8 @@ div.footer{
 highlights{
     font-size: 40px;
 }
+
+#Names{
+    color: white;
+    background-color: gray;
+}
