@@ -89,9 +89,13 @@ p.writing{
     padding: 5%;
 }
 
-div.footer{
-    padding: 10px;
-    text-align: center;
+
+#footer{
+    width: 100%;
+    background-color: #1D2228;
+    color: white;
+    border-collapse: collapse;
+
 }
 
 #players{
@@ -117,3 +121,39 @@ background-color: gray;
     color: white;
 }
 
+.fa {
+    padding: 6%;
+    font-size: 30px;
+    width: 10%;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      background-color:#1D2228;
+      color: white;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+
+  .fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  
