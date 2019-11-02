@@ -95,9 +95,11 @@ p.writing{
     background-color: #1D2228;
     color: white;
     border-collapse: collapse;
-
 }
 
+footer.th,td,tr{
+    width: 33.3%;
+}
 #players{
     border-collapse: collapse;
     width: 100%;
